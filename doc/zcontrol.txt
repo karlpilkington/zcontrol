@@ -185,7 +185,8 @@ Building and installing
 
 Obtain the source code and simply run `make` to build `libzcontrol.a`.
 
- git clone ...
+ git clone git://github.com/troydhanson/zcontrol.git
+ cd zcontrol
  make
  sudo make install
 
